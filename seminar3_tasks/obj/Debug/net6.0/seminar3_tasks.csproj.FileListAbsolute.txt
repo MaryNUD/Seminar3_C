@@ -1,0 +1,15 @@
+C:\Users\100NOUT\Desktop\C#_seminars&lectures\C#_seminar3\seminar3_tasks\bin\Debug\net6.0\seminar3_tasks.exe
+C:\Users\100NOUT\Desktop\C#_seminars&lectures\C#_seminar3\seminar3_tasks\bin\Debug\net6.0\seminar3_tasks.deps.json
+C:\Users\100NOUT\Desktop\C#_seminars&lectures\C#_seminar3\seminar3_tasks\bin\Debug\net6.0\seminar3_tasks.runtimeconfig.json
+C:\Users\100NOUT\Desktop\C#_seminars&lectures\C#_seminar3\seminar3_tasks\bin\Debug\net6.0\seminar3_tasks.dll
+C:\Users\100NOUT\Desktop\C#_seminars&lectures\C#_seminar3\seminar3_tasks\bin\Debug\net6.0\seminar3_tasks.pdb
+C:\Users\100NOUT\Desktop\C#_seminars&lectures\C#_seminar3\seminar3_tasks\obj\Debug\net6.0\seminar3_tasks.csproj.AssemblyReference.cache
+C:\Users\100NOUT\Desktop\C#_seminars&lectures\C#_seminar3\seminar3_tasks\obj\Debug\net6.0\seminar3_tasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\100NOUT\Desktop\C#_seminars&lectures\C#_seminar3\seminar3_tasks\obj\Debug\net6.0\seminar3_tasks.AssemblyInfoInputs.cache
+C:\Users\100NOUT\Desktop\C#_seminars&lectures\C#_seminar3\seminar3_tasks\obj\Debug\net6.0\seminar3_tasks.AssemblyInfo.cs
+C:\Users\100NOUT\Desktop\C#_seminars&lectures\C#_seminar3\seminar3_tasks\obj\Debug\net6.0\seminar3_tasks.csproj.CoreCompileInputs.cache
+C:\Users\100NOUT\Desktop\C#_seminars&lectures\C#_seminar3\seminar3_tasks\obj\Debug\net6.0\seminar3_tasks.dll
+C:\Users\100NOUT\Desktop\C#_seminars&lectures\C#_seminar3\seminar3_tasks\obj\Debug\net6.0\refint\seminar3_tasks.dll
+C:\Users\100NOUT\Desktop\C#_seminars&lectures\C#_seminar3\seminar3_tasks\obj\Debug\net6.0\seminar3_tasks.pdb
+C:\Users\100NOUT\Desktop\C#_seminars&lectures\C#_seminar3\seminar3_tasks\obj\Debug\net6.0\seminar3_tasks.genruntimeconfig.cache
+C:\Users\100NOUT\Desktop\C#_seminars&lectures\C#_seminar3\seminar3_tasks\obj\Debug\net6.0\ref\seminar3_tasks.dll
